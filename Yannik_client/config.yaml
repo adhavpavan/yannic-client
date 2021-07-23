@@ -1,0 +1,94 @@
+
+# pre-generated authorities
+users:
+  user1:
+    # username of the identity
+    username: "pavan"
+    # mspid of the identity
+    mspid: "Org1MSP"
+    # private key of the identity
+    priv: |
+      -----BEGIN PRIVATE KEY-----
+      MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwWJjoIfWt9LnjEGK
+      wMOpnZicie/GzJxkZTFua4izHd+hRANCAASUjcX/qA4kNYnJRkaPbBSTE7nsLCag
+      30PD7HKgL6CKRpBqCoYDsVn8fOamIFQjc1HAxxrXu6JP2YzdAth50jN7
+      -----END PRIVATE KEY-----
+    # certificate of the identity
+    cert: |
+      -----BEGIN CERTIFICATE-----
+      MIICjjCCAjWgAwIBAgIUOz+xLvkK7aBN9on3HFumZDZjYPQwCgYIKoZIzj0EAwIw
+      czELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh
+      biBGcmFuY2lzY28xGTAXBgNVBAoTEG9yZzEuZXhhbXBsZS5jb20xHDAaBgNVBAMT
+      E2NhLm9yZzEuZXhhbXBsZS5jb20wHhcNMjAwMjA0MDMzMjAwWhcNMjEwMjAzMDMz
+      NzAwWjBCMTAwDQYDVQQLEwZjbGllbnQwCwYDVQQLEwRvcmcxMBIGA1UECxMLZGVw
+      YXJ0bWVudDExDjAMBgNVBAMTBXBhdmFuMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD
+      QgAElI3F/6gOJDWJyUZGj2wUkxO57CwmoN9Dw+xyoC+gikaQagqGA7FZ/HzmpiBU
+      I3NRwMca17uiT9mM3QLYedIze6OB1zCB1DAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0T
+      AQH/BAIwADAdBgNVHQ4EFgQUP5PGulivMxFpz3sS4yfucd8NWHAwKwYDVR0jBCQw
+      IoAggRu4dhVtGHZfKY5uBl/U/2A75GTEw/Ekt8lVenvzwO0waAYIKgMEBQYHCAEE
+      XHsiYXR0cnMiOnsiaGYuQWZmaWxpYXRpb24iOiJvcmcxLmRlcGFydG1lbnQxIiwi
+      aGYuRW5yb2xsbWVudElEIjoicGF2YW4iLCJoZi5UeXBlIjoiY2xpZW50In19MAoG
+      CCqGSM49BAMCA0cAMEQCIFZqN0bveTpZkwM6wJ5JRdB7glFMexGyo/Ky90jeFa38
+      AiA+biZzEC2M9xc0kXol/1P3Zk4wJTJwcOgaZ+UfgGR+oA==
+      -----END CERTIFICATE-----
+  user2:
+    # username of the identity
+    username: "sandip"
+    # mspid of the identity
+    mspid: "Org1MSP"
+    # private key of the identity
+    priv: |
+      -----BEGIN PRIVATE KEY-----
+      MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgvFn+hMvYOr1TQRln
+      HjMbnUIVgoj5BY1fe8lkmlBYqDWhRANCAAQbsonRuLRqDYp4xEqHtCqaP9VfKEyQ
+      cXofLSO3HlgZt5s1nSsYZKfAhzLeyhofgZ5qXvgXkYzI9ms7XRL3rtMC
+      -----END PRIVATE KEY-----
+    # certificate of the identity
+    cert: |
+      -----BEGIN CERTIFICATE-----
+      MIICkDCCAjegAwIBAgIUXkO/bzIivp3dtUL2UND6j3re6iowCgYIKoZIzj0EAwIw
+      czELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh
+      biBGcmFuY2lzY28xGTAXBgNVBAoTEG9yZzEuZXhhbXBsZS5jb20xHDAaBgNVBAMT
+      E2NhLm9yZzEuZXhhbXBsZS5jb20wHhcNMjAwMjA0MDMzMjAwWhcNMjEwMjAzMDMz
+      NzAwWjBDMTAwDQYDVQQLEwZjbGllbnQwCwYDVQQLEwRvcmcxMBIGA1UECxMLZGVw
+      YXJ0bWVudDExDzANBgNVBAMTBnNhbmRpcDBZMBMGByqGSM49AgEGCCqGSM49AwEH
+      A0IABBuyidG4tGoNinjESoe0Kpo/1V8oTJBxeh8tI7ceWBm3mzWdKxhkp8CHMt7K
+      Gh+Bnmpe+BeRjMj2aztdEveu0wKjgdgwgdUwDgYDVR0PAQH/BAQDAgeAMAwGA1Ud
+      EwEB/wQCMAAwHQYDVR0OBBYEFHNlLXwvFWz7QW5wjgc68omPp/fmMCsGA1UdIwQk
+      MCKAIIEbuHYVbRh2XymObgZf1P9gO+RkxMPxJLfJVXp788DtMGkGCCoDBAUGBwgB
+      BF17ImF0dHJzIjp7ImhmLkFmZmlsaWF0aW9uIjoib3JnMS5kZXBhcnRtZW50MSIs
+      ImhmLkVucm9sbG1lbnRJRCI6InNhbmRpcCIsImhmLlR5cGUiOiJjbGllbnQifX0w
+      CgYIKoZIzj0EAwIDRwAwRAIgYBz2D43LWwqoO5EhXEFzJT+EFoCxHbzEkE0bGM3I
+      Qb8CICTfcksECL21F8IEwXgIUtbsoI2CBopv4RVchZXJ/j4V
+      -----END CERTIFICATE-----
+  user3:
+    # username of the identity
+    username: "sushil"
+    # mspid of the identity
+
+    mspid: "Org1MSP"
+    # private key of the identity
+    priv: |
+      -----BEGIN PRIVATE KEY-----
+      MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgOG8F2k69Ab11pLjl
+      GlJSWi47B2Wgo8jIF5L34KbC+H2hRANCAASYF+w4eWSimA7IVR1bsfN3WLfUXlvG
+      tXJ036efFzeHfqBhu4r9eyKJqsnNhbuciIhAL+NUNCSAQ7qxIcfzIKvz
+      -----END PRIVATE KEY-----
+    # certificate of the identity
+    cert: |
+      -----BEGIN CERTIFICATE-----
+      MIICkDCCAjagAwIBAgITIA06gOGgEK9BUP6ugpT9/POYITAKBggqhkjOPQQDAjBz
+      MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2Fu
+      IEZyYW5jaXNjbzEZMBcGA1UEChMQb3JnMS5leGFtcGxlLmNvbTEcMBoGA1UEAxMT
+      Y2Eub3JnMS5leGFtcGxlLmNvbTAeFw0yMDAyMDQwMzMyMDBaFw0yMTAyMDMwMzM3
+      MDBaMEMxMDANBgNVBAsTBmNsaWVudDALBgNVBAsTBG9yZzEwEgYDVQQLEwtkZXBh
+      cnRtZW50MTEPMA0GA1UEAxMGc3VzaGlsMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD
+      QgAEmBfsOHlkopgOyFUdW7Hzd1i31F5bxrVydN+nnxc3h36gYbuK/XsiiarJzYW7
+      nIiIQC/jVDQkgEO6sSHH8yCr86OB2DCB1TAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0T
+      AQH/BAIwADAdBgNVHQ4EFgQUYc3yuN6AlK6L3UgsBcF0pnifo5EwKwYDVR0jBCQw
+      IoAggRu4dhVtGHZfKY5uBl/U/2A75GTEw/Ekt8lVenvzwO0waQYIKgMEBQYHCAEE
+      XXsiYXR0cnMiOnsiaGYuQWZmaWxpYXRpb24iOiJvcmcxLmRlcGFydG1lbnQxIiwi
+      aGYuRW5yb2xsbWVudElEIjoic3VzaGlsIiwiaGYuVHlwZSI6ImNsaWVudCJ9fTAK
+      BggqhkjOPQQDAgNIADBFAiEA1wox5ltdtQEMdnpQojpDe7TNFj5rJgb4QoxEuG+x
+      sxQCICHk2UqmTz/QumdDtog6hOekfSAiy9BNVyurWtuLhkdS
+      -----END CERTIFICATE-----
